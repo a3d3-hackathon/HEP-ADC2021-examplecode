@@ -14,6 +14,7 @@ bokeh = "^3.0"
 h5py = "^3.9"
 jupyter = "^1.0"
 tqdm = "^4.65"
+nvidia-cudnn-cu11 = "8.6.0.163"
 
 
 [build-system]
